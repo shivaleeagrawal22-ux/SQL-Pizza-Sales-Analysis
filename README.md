@@ -19,7 +19,7 @@ The dataset consists of 4 CSV files which were imported into SQL and structured 
 - Orders → Order date & time details
 - Order_Details → Pizza quantities per order
 - Pizzas → Pizza size & price details
-- Pizza_Types → Pizza names, categories & ingredients
+- Pizza_Types → Pizza names, categories & ingredients  
 📍 Source: Kaggle (Pizza Sales Dataset)
 
 # 🧠 Business Questions Covered
@@ -57,7 +57,7 @@ The dataset consists of 4 CSV files which were imported into SQL and structured 
 
 1. Import the CSV files into your SQL database
 2. Create tables as per schema
-3. Execute queries from analysis_queries.sql
+3. Execute queries from pizza_sales_queries.sql
 4. Analyze the output to derive insights
 
 # 💡 Key Learnings
