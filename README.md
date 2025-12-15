@@ -1,4 +1,4 @@
-# SQL-Pizza-Sales-Analysis
+# Pizza-Sales-Analysis-SQL-Case-Study
 # 📌 Project Overview
 
 This project is an end-to-end SQL case study performed on a pizza sales dataset sourced from Kaggle.
@@ -12,24 +12,15 @@ The project demonstrates practical SQL skills used in real-world data analysis s
 - Practice SQL concepts using a realistic transactional dataset
 - Answer business-oriented questions across basic, intermediate, and advanced levels
 
-# 🗂️ Dataset Information
+# 🗂️ Dataset & Database Structure
 
-The dataset consists of 4 CSV files:
+The dataset consists of 4 CSV files which were imported into SQL and structured into relational tables:
 
-- orders.csv → Order date & time details
-- order_details.csv → Pizza quantities per order
-- pizzas.csv → Pizza size & price details
-- pizza_types.csv → Pizza names, categories & ingredients
-
+- Orders → Order date & time details
+- Order_Details → Pizza quantities per order
+- Pizzas → Pizza size & price details
+- Pizza_Types → Pizza names, categories & ingredients
 📍 Source: Kaggle (Pizza Sales Dataset)
-
-# 🧱 Database Tables
-
-The CSV files were imported into SQL and structured into the following tables:
-- Orders
-- Order_Details
-- Pizzas
-- Pizza_Types
 
 # 🧠 Business Questions Covered
 
